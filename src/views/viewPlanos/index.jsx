@@ -7,7 +7,7 @@ export function MenuPlanos() {
         <Tabs size='md' variant='enclosed'>
             <TabList>
                 <Tab>Individual</Tab>
-                <Tab>Família</Tab>
+                <Tab>Famílias</Tab>
             </TabList>
 
             <TabPanels>
